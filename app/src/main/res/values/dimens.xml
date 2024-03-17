@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="padding_medium">12dp</dimen>
+    <dimen name="padding_small">8dp</dimen>
+    <dimen name="padding_extra_small">4dp</dimen>
+    <dimen name="spacer_width_large">80dp</dimen>
+    <dimen name="image_of_the_day_height">275dp</dimen>
+    <dimen name="asteroid_detail_screen_image_height">300dp</dimen>
+    <dimen name="map_height">300dp</dimen>
+    <dimen name="fire_country_dialog_lazylist_height">400dp</dimen>
+    <dimen name="card_horiz_margin">20dp</dimen>
+    <dimen name="card_text_margin">16dp</dimen>
+    <dimen name="detail_text_margin">10dp</dimen>
+</resources>

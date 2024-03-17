@@ -1,0 +1,20 @@
+package com.kyungsuksong.doomsday.util
+
+const val DATABASE_NAME = "doomsday-db"
+const val FIRST_LAUNCH_ASTEROID = "first_launch_asteroid"
+const val FIRST_LAUNCH_EARTHQUAKE = "first_launch_earthquake"
+const val FIRST_LAUNCH_FIRE = "first_launch_fire"
+const val ASTEROID_WORK_TAG = "asteroid_worker"
+const val EARTHQUAKE_WORK_TAG = "earthquake_worker"
+const val FIRE_WORK_TAG = "fire_worker"
+const val IMAGE_MEDIA = "image"
+const val API_QUERY_DATE_FORMAT = "yyyy-MM-dd"
+const val SHARED_PREFERENCE_NAME = "app_preference"
+const val BASE_URL_ASTEROID = "https://api.nasa.gov/"
+const val BASE_URL_EARTHQUAKE = "https://earthquake.usgs.gov"
+const val BASE_URL_FIRE = "https://firms.modaps.eosdis.nasa.gov"
+const val EARTHQUAKE_MAP_CLUSTERING_TAG = "earthquakeMapClustering"
+const val FIRE_MAP_CLUSTERING_TAG = "fireMapClustering"
+const val DAY_IN_MILLIS = 86400000L
+const val WORK_DATA_COUNTRY_KEY = "country"
+const val FIRE_LAST_SELECTED_COUNTRY = "lastCountry"

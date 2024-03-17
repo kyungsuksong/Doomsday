@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">DoomsDay</string>
+    <string name="asteroid_page_title" translation_description="title text of asteroid page">Asteroids</string>
+    <string name="earthquake_page_title" translation_description="title text of earthquake page">Earthquake</string>
+    <string name="fire_page_title" translation_description="title text of fire page">Fire</string>
+    <string name="no_connectivity_title" translation_description="title text of no connectivity alert dialog">No Network</string>
+    <string name="no_connectivity_text" translation_description="description text of no connectivity alert dialog">Network connection is required for the first launch of the app.</string>
+    <string name="no_connectivity_confirm_button_text" translation_description="Button text that prompts user to go to the device settings">Confirm</string>
+    <string name="no_connectivity_dismiss_button_text" translation_description="Button text that prompts user to exit the app">Dismiss</string>
+    <string name="pic_of_day" translation_description="label text for pic of day">NASA picture of the day ?</string>
+    <string name="label_asteroid" translation_description="label text for asteroid list">Asteroids</string>
+    <string name="label_asteroid_tooltip_info" translation_description="tooltip text for asteroid label">
+        All the data is from the NASA JPL\n(http://neo.jpl.nasa.gov/)
+    </string>
+    <string name="label_earthquake" translation_description="label text for earthquake list">Earthquakes</string>
+    <string name="label_earthquake_tooltip_info" translation_description="tooltip text for earthquake label">
+        All the data is from the United States Geological Survey\n(https://www.usgs.gov/)
+    </string>
+    <string name="no_earthquake" translation_description="label text for empty earthquake list">Empty list</string>
+
+    <string name="label_fire" translation_description="label text for fire list">Fires/Hotspots</string>
+    <string name="label_fire_tooltip_info" translation_description="tooltip text for fire label">
+        All the data is from NASA`s Fire Information for Resource Management System\n(https://firms.modaps.eosdis.nasa.gov/)
+    </string>
+    <string name="no_fire" translation_description="label text for empty fire list">Empty list</string>
+
+    <string name="fire_country_dialog_title" translation_description="label text for fire country dialog">Select a country</string>
+    <string name="fire_dialog_cancel_button_text" translation_description="label text for fire country dialog cancel button">Cancel</string>
+    <string name="fire_dialog_confirm_button_text" translation_description="label text for fire country dialog confirm button">Confirm</string>
+
+    <string name="close_approach_date_label" translation_description="label text for close approach date in Detail Screen">Close Approach Date</string>
+    <string name="close_approach_date_balloon_content" translation_description="balloon content text for close approach date in Detail Screen">
+        The day on which the asteroid is at the closest distance from the Earth
+    </string>
+    <string name="absolute_magnitude_label" translation_description="label text for absolute magnitude in Detail Screen">Absolute Magnitude (H)</string>
+    <string name="absolute_magnitude_balloon_content" translation_description="balloon content text for absolute magnitude in Detail Screen">
+        The brightness of the asteroid, observed on the Earth, if the asteroid were at a distance of 1 AU from the Sun and 1 AU from the Earth, while the phase angle is 0 degree
+    </string>
+    <string name="estimated_diameter_label" translation_description="label text for estimated diameter in Detail Screen">Estimated Diameter</string>
+    <string name="estimated_diameter_balloon_content" translation_description="balloon content text for estimated diameter in Detail Screen">
+        The estimated diameter of the asteroid in the unit of feet
+    </string>
+    <string name="relative_velocity_label" translation_description="label text for relative velocity in Detail Screen">Relative Velocity</string>
+    <string name="relative_velocity_balloon_content" translation_description="balloon content text for relative velocity in Detail Screen">
+        The relative velocity between the asteroid and the Earth
+    </string>
+    <string name="distance_from_earth_label" translation_description="label text for distance from earth in Detail Screen">Miss Distance</string>
+    <string name="distance_from_earth_balloon_content" translation_description="balloon content text for distance from earth in Detail Screen">
+        The closest distance between the asteroid and the Earth on the close approach date
+    </string>
+
+    <string name="share_text_asteroid" translation_description="The default messaged used when sharing an asteroid on SNS, etc.">Check out the asteroid %s</string>
+    <string name="detail_toolbar_label" translation_description="label text for toolbar in Detail Screen">Asteroid Information</string>
+    <string name="detail_share_asteroid" translation_description="label for share button">Share</string>
+</resources>
